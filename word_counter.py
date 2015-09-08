@@ -64,20 +64,3 @@ def word_frequency():
     tables(freq)
 
 word_frequency()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#main()
